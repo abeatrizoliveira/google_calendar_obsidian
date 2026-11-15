@@ -16,7 +16,7 @@ o script gera uma nota em Markdown com a agenda de **hoje** e dos **próximos 7 
 
 ---
 
-[O que faz](#o-que-ele-faz) | [Demonstração](#demonstração) | [Como funciona](#como-funciona) | [Estrutura do projeto](#estrutura-do-projeto) | [Tecnologias](#tecnologias) | [Instalação](#instalação) | [Personalização](#personalização) | [Observações](#observações)
+[O que faz](#o-que-ele-faz) | [Demonstração](#demonstração) | [Como funciona](#como-funciona) | [Estrutura do projeto](#estrutura-do-projeto) | [Tecnologias](#tecnologias) | [Instalação](https://github.com/abeatrizoliveira/google_calendar_obsidian/blob/main/docs/installation.md) | [Personalização](https://github.com/abeatrizoliveira/google_calendar_obsidian/blob/main/docs/customization.md) | [Observações](https://github.com/abeatrizoliveira/google_calendar_obsidian/blob/main/docs/observation.md)
 
 ---
 
@@ -120,8 +120,20 @@ calendar-obsidian/
 | [Obsidian](https://obsidian.md/) | Onde a nota é exibida (Markdown + HTML inline) |
 | Agendador de Tarefas do Windows | Rodar o script automaticamente |
 
-> Encontre a instalação e a configuração [aqui]()
+<br>
 
-> Encontre comentários sobre privacidade e soluções de problemas [aqui]()
+---
 
-> Encontre formas de personalizar [aqui]()
+> Encontre a instalação e a configuração [aqui](https://github.com/abeatrizoliveira/google_calendar_obsidian/blob/main/docs/installation.md)
+
+> Encontre comentários sobre privacidade e soluções de problemas [aqui](https://github.com/abeatrizoliveira/google_calendar_obsidian/blob/main/docs/observation.md)
+
+> Encontre formas de personalizar [aqui](https://github.com/abeatrizoliveira/google_calendar_obsidian/blob/main/docs/customization.md)
+
+---
+
+<div align="center">
+Desenvolvido por Beatriz :) 
+    <br>
+    2026 
+</div>
