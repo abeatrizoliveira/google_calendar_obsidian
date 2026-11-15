@@ -24,6 +24,11 @@ o script gera uma nota em Markdown com a agenda de **hoje** e dos **próximos 7 
 
 <br>
 
+<img width="1716" height="1182" alt="calendar_obsidian" src="https://github.com/user-attachments/assets/ca3ef13a-f36d-4fae-a139-43e7bb300bfc" />
+
+<br>
+
+
 ## Problematização
 
 Eu, como muitos, sou organizada **desde que eu me lembre e veja**. O problema não era planejamento, era **visibilidade**: o calendário morava em um app e minhas anotações e estudos em outro, e eu precisava lembrar de abrir o calendário.
@@ -44,11 +49,6 @@ Este projeto traz a agenda para dentro do lugar onde eu já escrevo e estudo tod
 <br>
 
 ## Demonstração
-
-<img width="1456" height="817" alt="Group 33" src="https://github.com/user-attachments/assets/38382ec1-e8e5-479f-8aaa-4701fdf79ce9" />
-
-
-<br><br>
 
 A nota gerada tem este formato (o Obsidian renderiza o HTML com as cores):
 
